@@ -6,6 +6,7 @@
  * 3) kirimPesan safe JSON parse (tidak crash kalau response bukan JSON)
  * 4) parsing command lebih robust (split regex)
  * 5) optional: Lock saat write/delete untuk menghindari race condition
+ * 6) aku coba sync ke github lalu buka via vscode.
  */
 
 // ====================== CONFIG ======================
