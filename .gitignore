@@ -1,0 +1,16 @@
+# Google Apps Script
+.clasp.json
+
+# Node modules
+node_modules/
+
+# Environment & secrets
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
