@@ -228,9 +228,9 @@ function doPost(e) {
   }
 }
 
-function doGet() {
-  return ContentService.createTextOutput("Webhook aktif").setMimeType(ContentService.MimeType.TEXT);
-}
+// function doGet() {
+//   return ContentService.createTextOutput("Webhook aktif").setMimeType(ContentService.MimeType.TEXT);
+// }
 
 // ====================== REPORTS ======================
 function rekapMingguanDetail(user) {
